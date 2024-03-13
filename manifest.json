@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "initiative-tracker",
+	"name": "Initiative Tracker",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "A plugin for keeping track of initative order and basic combat values.",
+	"author": "frompinewood",
+	"authorUrl": "https://github.com/frompinewood",
+	"fundingUrl": "https://www.saluscenter.org",
 	"isDesktopOnly": false
 }
